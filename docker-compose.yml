@@ -1,1 +1,42 @@
+version: "3.8"
 
+services:
+  producao.db:
+    image: mongo:7
+    container_name: producao-mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - producao-db-data:/data/db
+    networks:
+      - producao-network
+
+  producao.api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: producao-api
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_URLS: http://+:8081
+
+      ConnectionStrings__ProductionDbConnection: mongodb://producao.db:27017
+      MongoDB__DatabaseName: FastFood_Production
+
+      Jwt__Secret: 2025-Senha@Forte-JwtSegura
+      Jwt__Issuer: fastfood-production-api
+      Jwt__Audience: fastfood-clients
+
+    ports:
+      - "8081:8081"
+    depends_on:
+      - producao.db
+    networks:
+      - producao-network
+
+networks:
+  producao-network:
+    driver: bridge
+
+volumes:
+  producao-db-data:
