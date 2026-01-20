@@ -1,0 +1,1 @@
+yRcD:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Domain\Producao.Domain.csproj¢net8.0òCSharp12

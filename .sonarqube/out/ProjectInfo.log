@@ -1,0 +1,32 @@
+Product projects
+---------------------------------------
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Domain\Producao.Domain.csproj
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Application\Producao.Application.csproj
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Infrastructure\Producao.Infrastructure.csproj
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Api\Producao.Api.csproj
+
+
+Test projects
+---------------------------------------
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Production.Tests.csproj
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Domain\Producao.Domain.csproj
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Application\Producao.Application.csproj
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Infrastructure\Producao.Infrastructure.csproj
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Api\Producao.Api.csproj
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Production.Tests.csproj
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

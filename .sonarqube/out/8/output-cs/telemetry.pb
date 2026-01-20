@@ -1,0 +1,1 @@
+sR]D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Api\Producao.Api.csproj¢net8.0òCSharp12

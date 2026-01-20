@@ -1,0 +1,43 @@
+﻿D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Api\Controllers\ProductionControllerTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Api\DTOs\CreateProductionOrderDtoTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Api\DTOs\UpdateProductionOrderStatusDtoTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Api\Filters\ApiExceptionFilterAttributeTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Api\Models\ErrorResponseTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Application\Commands\CreateProductionOrderCommandHandlerTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Application\Commands\UpdateProductionOrderStatusCommandHandlerTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Application\Common\Exceptions\NotFoundExceptionTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Application\Common\Exceptions\ValidationExceptionTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Application\Queries\GetOrdersInProductionQueryHandlerTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Application\Queries\GetProductionOrderByOrderIdQueryHandlerTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Domain\ProductionOrders\ProductionOrderItemTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Domain\ProductionOrders\ProductionOrderTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Domain\Shared\Entities\EntityTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Domain\Shared\Exceptions\DomainExceptionTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Infrastructure\Data\ProductionDbContextTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Infrastructure\DependencyInjectionTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Infrastructure\Repositories\ProductionOrderRepositoryTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Infrastructure\Services\EmailNotificationServiceTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Infrastructure\Services\OrderServiceClientTests.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Infrastructure\Services\SmsNotificationServiceTests.cs
+C:\Users\amand\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs
+C:\Users\amand\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.exe
+C:\Users\amand\.nuget\packages\microsoft.testplatform.testhost\17.8.0\build\netcoreapp3.1\x64\testhost.dll
+C:\Users\amand\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\amand\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\amand\.nuget\packages\xunit.runner.visualstudio\2.5.3\build\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\coverage\coverage.opencover.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\3bc14cc1-bf86-4132-8fb3-7e5cae89aabb\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\537a74c1-0219-4d59-92e0-7665e8972b42\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\5791d3cf-24da-42e7-a772-45523208fa32\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\5ef3ae37-5559-480d-921c-eddd4e29bdad\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\9335eca5-5b1c-4a17-8db1-bca05f05c84f\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\99e93bcd-8de2-4746-a447-fde342325c35\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\a98f03a8-32fa-46ed-abff-bbc0172477a3\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\amand_AMND_2026-01-09_15_45_44\In\AMND\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\amand_AMND_2026-01-09_15_52_39\In\AMND\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\c7ddb6f4-a13e-4c20-bcd2-f0e8a89dee60\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\coverage.opencover.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\ea527a3c-be80-4fb7-b2b7-87d098481709\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\ea7aaafb-5f22-4f62-a3ad-a7bc9b775020\coverage.cobertura.xml
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\TestResults\TestResults.trx

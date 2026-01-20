@@ -1,0 +1,6 @@
+{
+  "Producao.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api",
+  "Producao.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application",
+  "Producao.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain",
+  "Producao.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure"
+}

@@ -1,0 +1,1 @@
+‰RsD:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Infrastructure\Producao.Infrastructure.csproj¢net8.0òCSharp12

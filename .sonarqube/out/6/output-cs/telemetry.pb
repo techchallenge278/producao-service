@@ -1,0 +1,1 @@
+ƒRmD:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Application\Producao.Application.csproj¢net8.0òCSharp12

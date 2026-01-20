@@ -1,0 +1,109 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FastFood.Production.Domain</name>
+    </assembly>
+    <members>
+        <member name="T:FastFood.Production.Domain.ProductionOrders.Entities.ProductionOrder">
+            <summary>
+            Entidade que representa um pedido em produção (visão da cozinha)
+            Armazenada no MongoDB
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Domain.ProductionOrders.Repositories.IProductionOrderRepository">
+            <summary>
+            Interface para repositório de pedidos em produção
+            </summary>
+        </member>
+        <member name="M:FastFood.Production.Domain.ProductionOrders.Repositories.IProductionOrderRepository.GetByOrderIdAsync(System.Guid,System.Threading.CancellationToken)">
+            <summary>
+            Busca um pedido pelo OrderId
+            </summary>
+        </member>
+        <member name="M:FastFood.Production.Domain.ProductionOrders.Repositories.IProductionOrderRepository.GetByStatusAsync(FastFood.Production.Domain.ProductionOrders.ValueObjects.ProductionStatus,System.Int32,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Busca pedidos por status
+            </summary>
+        </member>
+        <member name="M:FastFood.Production.Domain.ProductionOrders.Repositories.IProductionOrderRepository.GetOrdersInProductionAsync(System.Int32,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Busca pedidos em produção (Received ou InPreparation)
+            </summary>
+        </member>
+        <member name="M:FastFood.Production.Domain.ProductionOrders.Repositories.IProductionOrderRepository.GetReadyOrdersAsync(System.Int32,System.Int32,System.Threading.CancellationToken)">
+            <summary>
+            Busca pedidos prontos para retirada
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Domain.ProductionOrders.Services.INotificationService">
+            <summary>
+            Interface para serviço de notificação
+            </summary>
+        </member>
+        <member name="M:FastFood.Production.Domain.ProductionOrders.Services.INotificationService.NotifyOrderStatusChangeAsync(System.Guid,System.String,System.String,System.Nullable{System.Guid})">
+            <summary>
+            Notifica mudança de status do pedido
+            </summary>
+        </member>
+        <member name="M:FastFood.Production.Domain.ProductionOrders.Services.INotificationService.NotifyOrderReadyAsync(System.Guid,System.Nullable{System.Guid})">
+            <summary>
+            Notifica que o pedido está pronto para retirada
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Domain.ProductionOrders.ValueObjects.ProductionOrderItem">
+            <summary>
+            Item de um pedido em produção
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Domain.ProductionOrders.ValueObjects.ProductionStatus">
+            <summary>
+            Status possíveis de um pedido em produção
+            </summary>
+        </member>
+        <member name="F:FastFood.Production.Domain.ProductionOrders.ValueObjects.ProductionStatus.Received">
+            <summary>
+            Pedido recebido (aguardando início da preparação)
+            </summary>
+        </member>
+        <member name="F:FastFood.Production.Domain.ProductionOrders.ValueObjects.ProductionStatus.InPreparation">
+            <summary>
+            Pedido em preparação
+            </summary>
+        </member>
+        <member name="F:FastFood.Production.Domain.ProductionOrders.ValueObjects.ProductionStatus.Ready">
+            <summary>
+            Pedido pronto para retirada
+            </summary>
+        </member>
+        <member name="F:FastFood.Production.Domain.ProductionOrders.ValueObjects.ProductionStatus.Completed">
+            <summary>
+            Pedido finalizado (entregue ao cliente)
+            </summary>
+        </member>
+        <member name="F:FastFood.Production.Domain.ProductionOrders.ValueObjects.ProductionStatus.Cancelled">
+            <summary>
+            Pedido cancelado
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Domain.Shared.Entities.Entity">
+            <summary>
+            Classe base para todas as entidades do domínio
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Domain.Shared.Entities.IEntity">
+            <summary>
+            Interface base para todas as entidades
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Domain.Shared.Exceptions.DomainException">
+            <summary>
+            Exceção base para erros de domínio
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Domain.Shared.Repositories.IRepository`1">
+            <summary>
+            Interface base para repositórios
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FastFood.Production.Infrastructure</name>
+    </assembly>
+    <members>
+        <member name="T:FastFood.Production.Infrastructure.Data.ProductionDbContext">
+            <summary>
+            Contexto MongoDB para o Production Service
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Infrastructure.Repositories.ProductionOrderRepository">
+            <summary>
+            Implementação do repositório de pedidos em produção usando MongoDB
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Infrastructure.Services.EmailNotificationService">
+            <summary>
+            Implementação do serviço de notificação por email
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Infrastructure.Services.OrderServiceClient">
+            <summary>
+            Implementação do cliente HTTP para comunicação com o Order Service
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Infrastructure.Services.SmsNotificationService">
+            <summary>
+            Implementação do serviço de notificação por SMS
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,6 @@
+﻿D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Infrastructure\Data\ProductionDbContext.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Infrastructure\DependencyInjection.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Infrastructure\Repositories\ProductionOrderRepository.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Infrastructure\Services\EmailNotificationService.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Infrastructure\Services\OrderServiceClient.cs
+D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Infrastructure\Services\SmsNotificationService.cs

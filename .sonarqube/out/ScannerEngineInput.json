@@ -1,0 +1,468 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.0"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1768336795000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "production"
+    },
+    {
+      "key": "sonar.projectName",
+      "value": "Production"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao"
+    },
+    {
+      "key": "sonar.sources",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.vs\\VSWorkspaceState.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.vs\\MicroServico-Producao\\v17\\DocumentLayout.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.vs\\Producao\\config\\applicationhost.config,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.vs\\Producao\\v17\\DocumentLayout.backup.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.vs\\Producao\\v17\\DocumentLayout.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\docker-compose.yml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\Dockerfile"
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "0FFA38D2-652F-412B-9C21-A824477D8309,F5708C7F-54C8-4787-B322-2CF134E96DAE,E4B93D56-8AAE-416F-9301-53A47E02129C,003D1397-9F60-4524-90B4-1563E588BE61,BD008E07-1A7E-47A7-A2F2-1060898C47DE,33F1F79D-4EC7-41FD-B423-FAEA5B445837,ABF507E9-9389-4D61-BDA2-698F028FDC75,83F88DD5-8B50-4823-BE04-CAF8CC72E5A4,3658AAE9-86FB-4483-B00C-52B21CDB9E71,6BB1C35C-0C57-CDE2-E352-6E706E4F170C"
+    },
+    {
+      "key": "0FFA38D2-652F-412B-9C21-A824477D8309.sonar.projectKey",
+      "value": "production:0FFA38D2-652F-412B-9C21-A824477D8309"
+    },
+    {
+      "key": "0FFA38D2-652F-412B-9C21-A824477D8309.sonar.projectName",
+      "value": "Producao.Domain"
+    },
+    {
+      "key": "0FFA38D2-652F-412B-9C21-A824477D8309.sonar.projectBaseDir",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain"
+    },
+    {
+      "key": "0FFA38D2-652F-412B-9C21-A824477D8309.sonar.working.directory",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "0FFA38D2-652F-412B-9C21-A824477D8309.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "0FFA38D2-652F-412B-9C21-A824477D8309.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "0FFA38D2-652F-412B-9C21-A824477D8309.sonar.sources",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\ProductionOrders\\Entities\\ProductionOrder.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\ProductionOrders\\Repositories\\IProductionOrderRepository.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\ProductionOrders\\Services\\INotificationService.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\ProductionOrders\\ValueObjects\\ProductionOrderItem.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\ProductionOrders\\ValueObjects\\ProductionStatus.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\Shared\\Entities\\Entity.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\Shared\\Entities\\IEntity.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\Shared\\Exceptions\\DomainException.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\Shared\\Repositories\\IRepository.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\obj\\Producao.Domain.csproj.nuget.dgspec.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\obj\\project.assets.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\bin\\Debug\\net8.0\\Producao.Domain.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\obj\\Debug\\net8.0\\Producao.Domain.sourcelink.json"
+    },
+    {
+      "key": "0FFA38D2-652F-412B-9C21-A824477D8309.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "0FFA38D2-652F-412B-9C21-A824477D8309.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "0FFA38D2-652F-412B-9C21-A824477D8309.sonar.cs.scanner.telemetry",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "F5708C7F-54C8-4787-B322-2CF134E96DAE.sonar.projectKey",
+      "value": "production:F5708C7F-54C8-4787-B322-2CF134E96DAE"
+    },
+    {
+      "key": "F5708C7F-54C8-4787-B322-2CF134E96DAE.sonar.projectName",
+      "value": "Producao.Application"
+    },
+    {
+      "key": "F5708C7F-54C8-4787-B322-2CF134E96DAE.sonar.projectBaseDir",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application"
+    },
+    {
+      "key": "F5708C7F-54C8-4787-B322-2CF134E96DAE.sonar.working.directory",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "F5708C7F-54C8-4787-B322-2CF134E96DAE.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "F5708C7F-54C8-4787-B322-2CF134E96DAE.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "F5708C7F-54C8-4787-B322-2CF134E96DAE.sonar.sources",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\obj\\Producao.Application.csproj.nuget.dgspec.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\obj\\project.assets.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\bin\\Debug\\net8.0\\Producao.Application.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\obj\\Debug\\net8.0\\Producao.Application.sourcelink.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\Commands\\CreateProductionOrderCommand.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\Commands\\CreateProductionOrderCommandHandler.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\Commands\\UpdateProductionOrderStatusCommand.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\Commands\\UpdateProductionOrderStatusCommandHandler.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\Common\\Exceptions\\NotFoundException.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\Common\\Exceptions\\ValidationException.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\DependencyInjection.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\Queries\\GetOrdersInProductionQuery.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\Queries\\GetOrdersInProductionQueryHandler.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\Queries\\GetProductionOrderByOrderIdQuery.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\Queries\\GetProductionOrderByOrderIdQueryHandler.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application\\Services\\IOrderServiceClient.cs"
+    },
+    {
+      "key": "F5708C7F-54C8-4787-B322-2CF134E96DAE.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "F5708C7F-54C8-4787-B322-2CF134E96DAE.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "F5708C7F-54C8-4787-B322-2CF134E96DAE.sonar.cs.scanner.telemetry",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "E4B93D56-8AAE-416F-9301-53A47E02129C.sonar.projectKey",
+      "value": "production:E4B93D56-8AAE-416F-9301-53A47E02129C"
+    },
+    {
+      "key": "E4B93D56-8AAE-416F-9301-53A47E02129C.sonar.projectName",
+      "value": "Producao.Infrastructure"
+    },
+    {
+      "key": "E4B93D56-8AAE-416F-9301-53A47E02129C.sonar.projectBaseDir",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure"
+    },
+    {
+      "key": "E4B93D56-8AAE-416F-9301-53A47E02129C.sonar.working.directory",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\.sonar\\mod2"
+    },
+    {
+      "key": "E4B93D56-8AAE-416F-9301-53A47E02129C.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "E4B93D56-8AAE-416F-9301-53A47E02129C.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "E4B93D56-8AAE-416F-9301-53A47E02129C.sonar.sources",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\obj\\Producao.Infrastructure.csproj.nuget.dgspec.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\obj\\project.assets.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\bin\\Debug\\net8.0\\Producao.Infrastructure.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\obj\\Debug\\net8.0\\Producao.Infrastructure.sourcelink.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\Data\\ProductionDbContext.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\DependencyInjection.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\Repositories\\ProductionOrderRepository.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\Services\\EmailNotificationService.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\Services\\OrderServiceClient.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\Services\\SmsNotificationService.cs"
+    },
+    {
+      "key": "E4B93D56-8AAE-416F-9301-53A47E02129C.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\2"
+    },
+    {
+      "key": "E4B93D56-8AAE-416F-9301-53A47E02129C.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\2\\Issues.json"
+    },
+    {
+      "key": "E4B93D56-8AAE-416F-9301-53A47E02129C.sonar.cs.scanner.telemetry",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\2\\Telemetry.json"
+    },
+    {
+      "key": "003D1397-9F60-4524-90B4-1563E588BE61.sonar.projectKey",
+      "value": "production:003D1397-9F60-4524-90B4-1563E588BE61"
+    },
+    {
+      "key": "003D1397-9F60-4524-90B4-1563E588BE61.sonar.projectName",
+      "value": "Producao.Api"
+    },
+    {
+      "key": "003D1397-9F60-4524-90B4-1563E588BE61.sonar.projectBaseDir",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api"
+    },
+    {
+      "key": "003D1397-9F60-4524-90B4-1563E588BE61.sonar.working.directory",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\.sonar\\mod3"
+    },
+    {
+      "key": "003D1397-9F60-4524-90B4-1563E588BE61.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "003D1397-9F60-4524-90B4-1563E588BE61.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "003D1397-9F60-4524-90B4-1563E588BE61.sonar.sources",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\appsettings.Development.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\appsettings.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Producao.Api.csproj.nuget.dgspec.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Production.Tests.csproj.nuget.dgspec.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\project.assets.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Properties\\launchSettings.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\bin\\Debug\\net8.0\\appsettings.Development.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\bin\\Debug\\net8.0\\appsettings.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\bin\\Debug\\net8.0\\Producao.Api.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\bin\\Debug\\net8.0\\Producao.Api.runtimeconfig.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\bin\\Debug\\net8.0\\Producao.Api.staticwebassets.endpoints.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\ApiEndpoints.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\Producao.Api.sourcelink.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\rjsmcshtml.dswa.cache.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\rjsmrazor.dswa.cache.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\rpswa.dswa.cache.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\staticwebassets.build.endpoints.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\staticwebassets.build.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\EndpointInfo\\Producao.Api.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Controllers\\ProductionController.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\DTOs\\CreateProductionOrderDto.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\DTOs\\UpdateProductionOrderStatusDto.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Filters\\ApiExceptionFilterAttribute.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Models\\ErrorResponse.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Program.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\Producao.Api.GlobalUsings.g.cs,\"D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs\",D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\Producao.Api.AssemblyInfo.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\obj\\Debug\\net8.0\\Producao.Api.MvcApplicationPartsAssemblyInfo.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Producao.Api.http"
+    },
+    {
+      "key": "003D1397-9F60-4524-90B4-1563E588BE61.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\3"
+    },
+    {
+      "key": "003D1397-9F60-4524-90B4-1563E588BE61.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\3\\Issues.json"
+    },
+    {
+      "key": "003D1397-9F60-4524-90B4-1563E588BE61.sonar.cs.scanner.telemetry",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\3\\Telemetry.json"
+    },
+    {
+      "key": "BD008E07-1A7E-47A7-A2F2-1060898C47DE.sonar.projectKey",
+      "value": "production:BD008E07-1A7E-47A7-A2F2-1060898C47DE"
+    },
+    {
+      "key": "BD008E07-1A7E-47A7-A2F2-1060898C47DE.sonar.projectName",
+      "value": "Production.Tests"
+    },
+    {
+      "key": "BD008E07-1A7E-47A7-A2F2-1060898C47DE.sonar.projectBaseDir",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test"
+    },
+    {
+      "key": "BD008E07-1A7E-47A7-A2F2-1060898C47DE.sonar.working.directory",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\.sonar\\mod4"
+    },
+    {
+      "key": "BD008E07-1A7E-47A7-A2F2-1060898C47DE.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "BD008E07-1A7E-47A7-A2F2-1060898C47DE.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "BD008E07-1A7E-47A7-A2F2-1060898C47DE.sonar.tests",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\obj\\FastFood.Production.Tests.csproj.nuget.dgspec.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\obj\\Production.Tests.csproj.nuget.dgspec.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\obj\\project.assets.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Debug\\net8.0\\appsettings.Development.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Debug\\net8.0\\appsettings.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Debug\\net8.0\\MvcTestingAppManifest.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Debug\\net8.0\\Producao.Api.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Debug\\net8.0\\Producao.Api.runtimeconfig.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Debug\\net8.0\\Producao.Api.staticwebassets.endpoints.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Debug\\net8.0\\Producao.Application.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Debug\\net8.0\\Producao.Domain.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Debug\\net8.0\\Producao.Infrastructure.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Debug\\net8.0\\Production.Tests.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Debug\\net8.0\\Production.Tests.runtimeconfig.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Release\\net8.0\\appsettings.Development.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Release\\net8.0\\appsettings.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Release\\net8.0\\FastFood.Production.Api.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Release\\net8.0\\FastFood.Production.Api.runtimeconfig.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Release\\net8.0\\FastFood.Production.Api.staticwebassets.endpoints.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Release\\net8.0\\FastFood.Production.Application.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Release\\net8.0\\FastFood.Production.Domain.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Release\\net8.0\\FastFood.Production.Infrastructure.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Release\\net8.0\\FastFood.Production.Tests.deps.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Release\\net8.0\\FastFood.Production.Tests.runtimeconfig.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\bin\\Release\\net8.0\\MvcTestingAppManifest.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\obj\\Debug\\net8.0\\MvcTestingAppManifest.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\obj\\Debug\\net8.0\\Production.Tests.sourcelink.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\obj\\Release\\net8.0\\FastFood.Production.Tests.sourcelink.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\obj\\Release\\net8.0\\MvcTestingAppManifest.json,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Api\\Controllers\\ProductionControllerTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Api\\DTOs\\CreateProductionOrderDtoTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Api\\DTOs\\UpdateProductionOrderStatusDtoTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Api\\Filters\\ApiExceptionFilterAttributeTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Api\\Models\\ErrorResponseTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Application\\Commands\\CreateProductionOrderCommandHandlerTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Application\\Commands\\UpdateProductionOrderStatusCommandHandlerTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Application\\Common\\Exceptions\\NotFoundExceptionTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Application\\Common\\Exceptions\\ValidationExceptionTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Application\\Queries\\GetOrdersInProductionQueryHandlerTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Application\\Queries\\GetProductionOrderByOrderIdQueryHandlerTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Domain\\ProductionOrders\\ProductionOrderItemTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Domain\\ProductionOrders\\ProductionOrderTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Domain\\Shared\\Entities\\EntityTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Domain\\Shared\\Exceptions\\DomainExceptionTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Infrastructure\\Data\\ProductionDbContextTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Infrastructure\\DependencyInjectionTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Infrastructure\\Repositories\\ProductionOrderRepositoryTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Infrastructure\\Services\\EmailNotificationServiceTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Infrastructure\\Services\\OrderServiceClientTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Infrastructure\\Services\\SmsNotificationServiceTests.cs,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\coverage\\coverage.opencover.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\3bc14cc1-bf86-4132-8fb3-7e5cae89aabb\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\537a74c1-0219-4d59-92e0-7665e8972b42\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\5791d3cf-24da-42e7-a772-45523208fa32\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\5ef3ae37-5559-480d-921c-eddd4e29bdad\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\9335eca5-5b1c-4a17-8db1-bca05f05c84f\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\99e93bcd-8de2-4746-a447-fde342325c35\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\a98f03a8-32fa-46ed-abff-bbc0172477a3\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\amand_AMND_2026-01-09_15_45_44\\In\\AMND\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\amand_AMND_2026-01-09_15_52_39\\In\\AMND\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\c7ddb6f4-a13e-4c20-bcd2-f0e8a89dee60\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\coverage.opencover.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\ea527a3c-be80-4fb7-b2b7-87d098481709\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\ea7aaafb-5f22-4f62-a3ad-a7bc9b775020\\coverage.cobertura.xml,D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\TestResults\\TestResults.trx"
+    },
+    {
+      "key": "BD008E07-1A7E-47A7-A2F2-1060898C47DE.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\4"
+    },
+    {
+      "key": "BD008E07-1A7E-47A7-A2F2-1060898C47DE.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\4\\Issues.json"
+    },
+    {
+      "key": "BD008E07-1A7E-47A7-A2F2-1060898C47DE.sonar.cs.scanner.telemetry",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\4\\Telemetry.json"
+    },
+    {
+      "key": "33F1F79D-4EC7-41FD-B423-FAEA5B445837.sonar.projectKey",
+      "value": "production:33F1F79D-4EC7-41FD-B423-FAEA5B445837"
+    },
+    {
+      "key": "33F1F79D-4EC7-41FD-B423-FAEA5B445837.sonar.projectName",
+      "value": "Producao.Domain"
+    },
+    {
+      "key": "33F1F79D-4EC7-41FD-B423-FAEA5B445837.sonar.projectBaseDir",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain"
+    },
+    {
+      "key": "33F1F79D-4EC7-41FD-B423-FAEA5B445837.sonar.working.directory",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\.sonar\\mod5"
+    },
+    {
+      "key": "33F1F79D-4EC7-41FD-B423-FAEA5B445837.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "33F1F79D-4EC7-41FD-B423-FAEA5B445837.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "33F1F79D-4EC7-41FD-B423-FAEA5B445837.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "33F1F79D-4EC7-41FD-B423-FAEA5B445837.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\5"
+    },
+    {
+      "key": "33F1F79D-4EC7-41FD-B423-FAEA5B445837.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\5\\Issues.json"
+    },
+    {
+      "key": "33F1F79D-4EC7-41FD-B423-FAEA5B445837.sonar.cs.scanner.telemetry",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\5\\Telemetry.json"
+    },
+    {
+      "key": "ABF507E9-9389-4D61-BDA2-698F028FDC75.sonar.projectKey",
+      "value": "production:ABF507E9-9389-4D61-BDA2-698F028FDC75"
+    },
+    {
+      "key": "ABF507E9-9389-4D61-BDA2-698F028FDC75.sonar.projectName",
+      "value": "Producao.Application"
+    },
+    {
+      "key": "ABF507E9-9389-4D61-BDA2-698F028FDC75.sonar.projectBaseDir",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Application"
+    },
+    {
+      "key": "ABF507E9-9389-4D61-BDA2-698F028FDC75.sonar.working.directory",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\.sonar\\mod6"
+    },
+    {
+      "key": "ABF507E9-9389-4D61-BDA2-698F028FDC75.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "ABF507E9-9389-4D61-BDA2-698F028FDC75.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "ABF507E9-9389-4D61-BDA2-698F028FDC75.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "ABF507E9-9389-4D61-BDA2-698F028FDC75.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\6"
+    },
+    {
+      "key": "ABF507E9-9389-4D61-BDA2-698F028FDC75.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\6\\Issues.json"
+    },
+    {
+      "key": "ABF507E9-9389-4D61-BDA2-698F028FDC75.sonar.cs.scanner.telemetry",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\6\\Telemetry.json"
+    },
+    {
+      "key": "83F88DD5-8B50-4823-BE04-CAF8CC72E5A4.sonar.projectKey",
+      "value": "production:83F88DD5-8B50-4823-BE04-CAF8CC72E5A4"
+    },
+    {
+      "key": "83F88DD5-8B50-4823-BE04-CAF8CC72E5A4.sonar.projectName",
+      "value": "Producao.Infrastructure"
+    },
+    {
+      "key": "83F88DD5-8B50-4823-BE04-CAF8CC72E5A4.sonar.projectBaseDir",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure"
+    },
+    {
+      "key": "83F88DD5-8B50-4823-BE04-CAF8CC72E5A4.sonar.working.directory",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\.sonar\\mod7"
+    },
+    {
+      "key": "83F88DD5-8B50-4823-BE04-CAF8CC72E5A4.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "83F88DD5-8B50-4823-BE04-CAF8CC72E5A4.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "83F88DD5-8B50-4823-BE04-CAF8CC72E5A4.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "83F88DD5-8B50-4823-BE04-CAF8CC72E5A4.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\7"
+    },
+    {
+      "key": "83F88DD5-8B50-4823-BE04-CAF8CC72E5A4.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\7\\Issues.json"
+    },
+    {
+      "key": "83F88DD5-8B50-4823-BE04-CAF8CC72E5A4.sonar.cs.scanner.telemetry",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\7\\Telemetry.json"
+    },
+    {
+      "key": "3658AAE9-86FB-4483-B00C-52B21CDB9E71.sonar.projectKey",
+      "value": "production:3658AAE9-86FB-4483-B00C-52B21CDB9E71"
+    },
+    {
+      "key": "3658AAE9-86FB-4483-B00C-52B21CDB9E71.sonar.projectName",
+      "value": "Producao.Api"
+    },
+    {
+      "key": "3658AAE9-86FB-4483-B00C-52B21CDB9E71.sonar.projectBaseDir",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api"
+    },
+    {
+      "key": "3658AAE9-86FB-4483-B00C-52B21CDB9E71.sonar.working.directory",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\.sonar\\mod8"
+    },
+    {
+      "key": "3658AAE9-86FB-4483-B00C-52B21CDB9E71.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "3658AAE9-86FB-4483-B00C-52B21CDB9E71.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "3658AAE9-86FB-4483-B00C-52B21CDB9E71.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "3658AAE9-86FB-4483-B00C-52B21CDB9E71.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\8"
+    },
+    {
+      "key": "3658AAE9-86FB-4483-B00C-52B21CDB9E71.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\8\\Issues.json"
+    },
+    {
+      "key": "3658AAE9-86FB-4483-B00C-52B21CDB9E71.sonar.cs.scanner.telemetry",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\8\\Telemetry.json"
+    },
+    {
+      "key": "6BB1C35C-0C57-CDE2-E352-6E706E4F170C.sonar.projectKey",
+      "value": "production:6BB1C35C-0C57-CDE2-E352-6E706E4F170C"
+    },
+    {
+      "key": "6BB1C35C-0C57-CDE2-E352-6E706E4F170C.sonar.projectName",
+      "value": "Production.Tests"
+    },
+    {
+      "key": "6BB1C35C-0C57-CDE2-E352-6E706E4F170C.sonar.projectBaseDir",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test"
+    },
+    {
+      "key": "6BB1C35C-0C57-CDE2-E352-6E706E4F170C.sonar.working.directory",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\.sonar\\mod9"
+    },
+    {
+      "key": "6BB1C35C-0C57-CDE2-E352-6E706E4F170C.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "6BB1C35C-0C57-CDE2-E352-6E706E4F170C.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "6BB1C35C-0C57-CDE2-E352-6E706E4F170C.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "6BB1C35C-0C57-CDE2-E352-6E706E4F170C.sonar.cs.analyzer.projectOutPaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\9"
+    },
+    {
+      "key": "6BB1C35C-0C57-CDE2-E352-6E706E4F170C.sonar.cs.roslyn.reportFilePaths",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\9\\Issues.json"
+    },
+    {
+      "key": "6BB1C35C-0C57-CDE2-E352-6E706E4F170C.sonar.cs.scanner.telemetry",
+      "value": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\.sonarqube\\out\\9\\Telemetry.json"
+    },
+    {
+      "key": "sonar.login",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.cs.opencover.reportsPaths",
+      "value": "src/Production.Test/coverage/coverage.opencover.xml"
+    },
+    {
+      "key": "sonar.exclusions",
+      "value": "src/Production.Test/coverage/coverage.opencover.xml"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

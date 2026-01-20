@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>Producao.Infrastructure</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Product</ProjectType>
+  <ProjectGuid>83f88dd5-8b50-4823-be04-caf8cc72e5a4</ProjectGuid>
+  <FullPath>D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Producao.Infrastructure\Producao.Infrastructure.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResultFiles>
+    <AnalysisResultFile Id="FilesToAnalyze" Location="D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\.sonarqube\conf\7\FilesToAnalyze.txt" />
+  </AnalysisResultFiles>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\.sonarqube\out\7\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\.sonarqube\out\7</Property>
+    <Property Name="sonar.cs.scanner.telemetry">D:\Projetos\techChallenge - Fase 4\MicroServico-Producao\.sonarqube\out\7\Telemetry.json</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net8.0</TargetFramework>
+</ProjectInfo>

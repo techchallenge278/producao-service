@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FastFood.Production.Application</name>
+    </assembly>
+    <members>
+        <member name="T:FastFood.Production.Application.Commands.CreateProductionOrderCommand">
+            <summary>
+            Comando para criar um pedido em produção
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Application.Commands.UpdateProductionOrderStatusCommand">
+            <summary>
+            Comando para atualizar o status de um pedido em produção
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Application.Queries.GetOrdersInProductionQuery">
+            <summary>
+            Query para buscar pedidos em produção (visão da cozinha)
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Application.Queries.GetProductionOrderByOrderIdQuery">
+            <summary>
+            Query para buscar um pedido em produção pelo OrderId
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Application.Services.IOrderServiceClient">
+            <summary>
+            Cliente HTTP para comunicação com o Order Service
+            </summary>
+        </member>
+        <member name="M:FastFood.Production.Application.Services.IOrderServiceClient.UpdateOrderStatusAsync(System.Guid,System.String,System.Threading.CancellationToken)">
+            <summary>
+            Atualiza o status de um pedido no Order Service
+            </summary>
+        </member>
+    </members>
+</doc>

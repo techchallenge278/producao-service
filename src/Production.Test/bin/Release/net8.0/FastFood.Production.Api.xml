@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FastFood.Production.Api</name>
+    </assembly>
+    <members>
+        <member name="T:FastFood.Production.Api.Controllers.ProductionController">
+            <summary>
+            Controlador para gerenciamento de pedidos em produção (visão da cozinha)
+            
+            **Finalidade:** Gerencia o processo de produção dos pedidos, desde o recebimento até a finalização.
+            
+            **Fluxo de produção:**
+            1. **Recebido** - Pedido pago e recebido na cozinha
+            2. **Em Preparação** - Pedido sendo preparado
+            3. **Pronto** - Pedido pronto para retirada
+            4. **Finalizado** - Pedido entregue ao cliente
+            
+            **Níveis de acesso:**
+            - **Protegidos**: Todas as operações (apenas cozinha/administração)
+            </summary>
+        </member>
+        <member name="M:FastFood.Production.Api.Controllers.ProductionController.CreateProductionOrder(FastFood.Production.Api.DTOs.CreateProductionOrderDto)">
+            <summary>
+            Cria um novo pedido em produção
+            </summary>
+        </member>
+        <member name="M:FastFood.Production.Api.Controllers.ProductionController.GetOrdersInProduction(System.String,System.Int32,System.Int32)">
+            <summary>
+            Lista pedidos em produção (visão da cozinha)
+            </summary>
+        </member>
+        <member name="M:FastFood.Production.Api.Controllers.ProductionController.GetByOrderId(System.Guid)">
+            <summary>
+            Busca um pedido em produção pelo OrderId
+            </summary>
+        </member>
+        <member name="M:FastFood.Production.Api.Controllers.ProductionController.UpdateStatus(System.Guid,FastFood.Production.Api.DTOs.UpdateProductionOrderStatusDto)">
+            <summary>
+            Atualiza o status de um pedido em produção
+            </summary>
+        </member>
+        <member name="T:FastFood.Production.Api.Models.ErrorResponse">
+            <summary>
+            Modelo de resposta para erros na API
+            </summary>
+        </member>
+    </members>
+</doc>

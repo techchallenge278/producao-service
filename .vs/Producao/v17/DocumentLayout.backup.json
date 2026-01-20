@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6BB1C35C-0C57-CDE2-E352-6E706E4F170C}|src\\Production.Test\\Production.Tests.csproj|d:\\projetos\\techchallenge - fase 4\\microservico-producao\\src\\production.test\\production.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6BB1C35C-0C57-CDE2-E352-6E706E4F170C}|src\\Production.Test\\Production.Tests.csproj|solutionrelative:src\\production.test\\production.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB1C35C-0C57-CDE2-E352-6E706E4F170C}|src\\Production.Test\\Production.Tests.csproj|d:\\projetos\\techchallenge - fase 4\\microservico-producao\\src\\production.test\\api\\dtos\\createproductionorderdtotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB1C35C-0C57-CDE2-E352-6E706E4F170C}|src\\Production.Test\\Production.Tests.csproj|solutionrelative:src\\production.test\\api\\dtos\\createproductionorderdtotests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BB1C35C-0C57-CDE2-E352-6E706E4F170C}|src\\Production.Test\\Production.Tests.csproj|d:\\projetos\\techchallenge - fase 4\\microservico-producao\\src\\production.test\\api\\controllers\\productioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BB1C35C-0C57-CDE2-E352-6E706E4F170C}|src\\Production.Test\\Production.Tests.csproj|solutionrelative:src\\production.test\\api\\controllers\\productioncontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3658AAE9-86FB-4483-B00C-52B21CDB9E71}|src\\Producao.Api\\Producao.Api.csproj|d:\\projetos\\techchallenge - fase 4\\microservico-producao\\src\\producao.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3658AAE9-86FB-4483-B00C-52B21CDB9E71}|src\\Producao.Api\\Producao.Api.csproj|solutionrelative:src\\producao.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F88DD5-8B50-4823-BE04-CAF8CC72E5A4}|src\\Producao.Infrastructure\\Producao.Infrastructure.csproj|d:\\projetos\\techchallenge - fase 4\\microservico-producao\\src\\producao.infrastructure\\data\\productiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F88DD5-8B50-4823-BE04-CAF8CC72E5A4}|src\\Producao.Infrastructure\\Producao.Infrastructure.csproj|solutionrelative:src\\producao.infrastructure\\data\\productiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3658AAE9-86FB-4483-B00C-52B21CDB9E71}|src\\Producao.Api\\Producao.Api.csproj|d:\\projetos\\techchallenge - fase 4\\microservico-producao\\src\\producao.api\\controllers\\productioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3658AAE9-86FB-4483-B00C-52B21CDB9E71}|src\\Producao.Api\\Producao.Api.csproj|solutionrelative:src\\producao.api\\controllers\\productioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3658AAE9-86FB-4483-B00C-52B21CDB9E71}|src\\Producao.Api\\Producao.Api.csproj|d:\\projetos\\techchallenge - fase 4\\microservico-producao\\src\\producao.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3658AAE9-86FB-4483-B00C-52B21CDB9E71}|src\\Producao.Api\\Producao.Api.csproj|solutionrelative:src\\producao.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3658AAE9-86FB-4483-B00C-52B21CDB9E71}|src\\Producao.Api\\Producao.Api.csproj|d:\\projetos\\techchallenge - fase 4\\microservico-producao\\src\\producao.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3658AAE9-86FB-4483-B00C-52B21CDB9E71}|src\\Producao.Api\\Producao.Api.csproj|solutionrelative:src\\producao.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33F1F79D-4EC7-41FD-B423-FAEA5B445837}|src\\Producao.Domain\\Producao.Domain.csproj|d:\\projetos\\techchallenge - fase 4\\microservico-producao\\src\\producao.domain\\productionorders\\entities\\productionorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33F1F79D-4EC7-41FD-B423-FAEA5B445837}|src\\Producao.Domain\\Producao.Domain.csproj|solutionrelative:src\\producao.domain\\productionorders\\entities\\productionorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83F88DD5-8B50-4823-BE04-CAF8CC72E5A4}|src\\Producao.Infrastructure\\Producao.Infrastructure.csproj|d:\\projetos\\techchallenge - fase 4\\microservico-producao\\src\\producao.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83F88DD5-8B50-4823-BE04-CAF8CC72E5A4}|src\\Producao.Infrastructure\\Producao.Infrastructure.csproj|solutionrelative:src\\producao.infrastructure\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -12,10 +48,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.308\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3658AAE9-86FB-4483-B00C-52B21CDB9E71}|src\\Producao.Api\\Producao.Api.csproj|d:\\projetos\\techchallenge - fase 4\\microservico-producao\\src\\producao.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3658AAE9-86FB-4483-B00C-52B21CDB9E71}|src\\Producao.Api\\Producao.Api.csproj|solutionrelative:src\\producao.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,44 +57,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DependencyInjection.cs",
-              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\DependencyInjection.cs",
-              "RelativeDocumentMoniker": "src\\Producao.Infrastructure\\DependencyInjection.cs",
-              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\DependencyInjection.cs",
-              "RelativeToolTip": "src\\Producao.Infrastructure\\DependencyInjection.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ProductionControllerTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Api\\Controllers\\ProductionControllerTests.cs",
+              "RelativeDocumentMoniker": "src\\Production.Test\\Api\\Controllers\\ProductionControllerTests.cs",
+              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Api\\Controllers\\ProductionControllerTests.cs",
+              "RelativeToolTip": "src\\Production.Test\\Api\\Controllers\\ProductionControllerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T08:46:44.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-09T19:24:50.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwDUAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2026-01-09T08:46:32.417Z",
+              "DocumentIndex": 0,
+              "Title": "Production.Tests.csproj",
+              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Production.Tests.csproj",
+              "RelativeDocumentMoniker": "src\\Production.Test\\Production.Tests.csproj",
+              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Production.Tests.csproj",
+              "RelativeToolTip": "src\\Production.Test\\Production.Tests.csproj",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T18:14:40.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Producao.Api",
-              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Producao.Api.csproj",
-              "RelativeDocumentMoniker": "src\\Producao.Api\\Producao.Api.csproj",
-              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Producao.Api.csproj",
-              "RelativeToolTip": "src\\Producao.Api\\Producao.Api.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-01-09T08:41:59.65Z",
-              "EditorCaption": ""
+              "Title": "CreateProductionOrderDtoTests.cs",
+              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Api\\DTOs\\CreateProductionOrderDtoTests.cs",
+              "RelativeDocumentMoniker": "src\\Production.Test\\Api\\DTOs\\CreateProductionOrderDtoTests.cs",
+              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Production.Test\\Api\\DTOs\\CreateProductionOrderDtoTests.cs",
+              "RelativeToolTip": "src\\Production.Test\\Api\\DTOs\\CreateProductionOrderDtoTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T19:25:16.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Producao.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Producao.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-09T09:09:41.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Producao.Api\\appsettings.json",
+              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Producao.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-09T09:08:29.439Z"
             },
             {
               "$type": "Document",
@@ -72,9 +128,79 @@
               "RelativeDocumentMoniker": "src\\Producao.Api\\Program.cs",
               "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Program.cs",
               "RelativeToolTip": "src\\Producao.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-09T08:36:24.733Z",
+              "WhenOpened": "2026-01-09T08:36:24.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductionController.cs",
+              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Controllers\\ProductionController.cs",
+              "RelativeDocumentMoniker": "src\\Producao.Api\\Controllers\\ProductionController.cs",
+              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Controllers\\ProductionController.cs",
+              "RelativeToolTip": "src\\Producao.Api\\Controllers\\ProductionController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAABBwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T09:05:54.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductionDbContext.cs",
+              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\Data\\ProductionDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Producao.Infrastructure\\Data\\ProductionDbContext.cs",
+              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\Data\\ProductionDbContext.cs",
+              "RelativeToolTip": "src\\Producao.Infrastructure\\Data\\ProductionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:58:03.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductionOrder.cs",
+              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\ProductionOrders\\Entities\\ProductionOrder.cs",
+              "RelativeDocumentMoniker": "src\\Producao.Domain\\ProductionOrders\\Entities\\ProductionOrder.cs",
+              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Domain\\ProductionOrders\\Entities\\ProductionOrder.cs",
+              "RelativeToolTip": "src\\Producao.Domain\\ProductionOrders\\Entities\\ProductionOrder.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAuwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:57:55.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Producao.Infrastructure\\DependencyInjection.cs",
+              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Infrastructure\\DependencyInjection.cs",
+              "RelativeToolTip": "src\\Producao.Infrastructure\\DependencyInjection.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAABBwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T08:46:44.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.308\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-09T08:46:32.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Producao.Api.csproj",
+              "DocumentMoniker": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Producao.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Producao.Api\\Producao.Api.csproj",
+              "ToolTip": "D:\\Projetos\\techChallenge - Fase 4\\MicroServico-Producao\\src\\Producao.Api\\Producao.Api.csproj",
+              "RelativeToolTip": "src\\Producao.Api\\Producao.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T08:41:59.65Z",
               "EditorCaption": ""
             }
           ]

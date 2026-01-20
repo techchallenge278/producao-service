@@ -1,0 +1,6 @@
+projectKey=production
+serverUrl=http://localhost:9000
+serverVersion=26.1.0.118079
+dashboardUrl=http://localhost:9000/dashboard?id=production
+ceTaskId=01f2aed3-6423-449a-8218-c681426de7f0
+ceTaskUrl=http://localhost:9000/api/ce/task?id=01f2aed3-6423-449a-8218-c681426de7f0

@@ -1,0 +1,1 @@
+zRdD:\Projetos\techChallenge - Fase 4\MicroServico-Producao\src\Production.Test\Production.Tests.csproj¢net8.0òCSharp12
