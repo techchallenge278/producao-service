@@ -114,7 +114,7 @@ public class ProductionOrder : Entity
             CompletedAt = DateTime.UtcNow;
     }
 
-    private static int CalculateEstimatedMinutes(List<ProductionOrderItem> items) // NOSONAR S2325
+    private static int CalculateEstimatedMinutes(List<ProductionOrderItem> items) 
     {
         if (items == null || items.Count == 0)
             return 10; // Tempo mínimo padrão
