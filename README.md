@@ -17,7 +17,7 @@ Testes unitários com cobertura ≥80%
 ## Tecnologias
 - .NET 8
 - C#
-- SQL ou NoSQL (conforme definido)
+- MongoDB
 - GitHub Actions para CI/CD
 - Docker para containerização
 
