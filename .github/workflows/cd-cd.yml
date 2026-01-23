@@ -52,5 +52,5 @@ jobs:
         run: |
           # Para container antigo se existir
           docker rm -f microservico-producao || true
-          # Roda o container na porta 5003 (ajuste se quiser)
+          # Roda o container na porta 5003 
           docker run -d -p 5003:5000 --name microservico-producao microservico-producao:latest
