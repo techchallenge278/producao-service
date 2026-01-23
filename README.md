@@ -6,8 +6,16 @@ O microsserviço **Produção** gerencia o fluxo de produção dos pedidos:
 - Atualizar status de cada etapa de produção
 - Comunicação com microsserviços Pedido e Pagamento
 
+## Observações
+
+CI/CD configurado via GitHub Actions  
+Branch main protegida, PR obrigatório  
+Testes unitários com cobertura ≥80%  
+<img width="1181" height="184" alt="image" src="https://github.com/user-attachments/assets/e921232c-530b-4d45-b961-393b5a0f2536" />
+
+
 ## Tecnologias
-- .NET 7
+- .NET 8
 - C#
 - SQL ou NoSQL (conforme definido)
 - GitHub Actions para CI/CD
@@ -44,14 +52,7 @@ docker run -d -p 5003:5000 --name producao-service producao-service:latest
 ```
 
 ## Endpoints
-
 GET /api/producao → Listar pedidos em produção
 PATCH /api/producao/{id} → Atualizar status de produção
 
-## Observações
-
-CI/CD configurado via GitHub Actions
-Branch main protegida, PR obrigatório
-Testes unitários com cobertura ≥80%
-<img width="1181" height="184" alt="image" src="https://github.com/user-attachments/assets/e921232c-530b-4d45-b961-393b5a0f2536" />
 
